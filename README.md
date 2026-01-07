@@ -42,7 +42,7 @@ Connect the PL2303 RX/TX pins to the PIC's TX/RX pins (RC6/RC7). Ensure common g
 ### 2. Python Setup
 ```bash
 # Clone the repository
-git clone [https://github.com/YOUR_USERNAME/PIC-Attendance-System.git](https://github.com/YOUR_USERNAME/PIC-Attendance-System.git)
+git clone [https://github.com/jude106/PIC-Attendance-System.git](https://github.com/YOUR_USERNAME/PIC-Attendance-System.git)
 
 # Install dependencies
 pip install -r requirements.txt
