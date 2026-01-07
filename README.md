@@ -34,13 +34,6 @@ Instead of manual sign-ins, students enter a 6-digit code via a keypad. The syst
    * `'0'` → **Late/Invalid** (Access Denied).
 5. **Actuation:** The PIC displays the status on the LCD and triggers the door lock (simulated).
 
-## 📊 Visuals
-*(See `docs/` for the full technical report and circuit diagrams)*
-
-| **PC Dashboard** | **Hardware Circuit** |
-| :---: | :---: |
-| ![GUI](docs/gui_preview.png) | ![Circuit](docs/circuit_preview.png) |
-
 ## 💻 How to Run
 
 ### 1. Hardware Setup
